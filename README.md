@@ -12,7 +12,8 @@ You will only be able to move when it's your turn. Once you have shot, you won't
 
 The game finishes when both worms from a team are dead, then opposite team will win the game.
 
-##PushBack History
+## PushBack History
+
 Check Group Member Historns Repository for PushBack History: Click [here](https://github.com/Historn/WormsGameProject)
 
 ## Key Features
